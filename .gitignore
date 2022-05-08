@@ -28,4 +28,4 @@ data/microprocessors/*
 # Vehicles
 data/vehicles/*
 
-!data/vehicles/ps *
+!data/vehicles/project starling*
