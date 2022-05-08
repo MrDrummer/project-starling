@@ -1,3 +1,3 @@
 # project-starling
 
-![Preview Creation](data/vehicles/ps initial.png)
+![Preview Creation](data/vehicles/ps%20initial.png)
